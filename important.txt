@@ -1,2 +1,8 @@
 conda create -p venv python==3.10 -y 
 
+
+
+
+https://www.youtube.com/watch?v=HFfXvfFe9F8&t=1s
+
+
